@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fitfunflo.
+- 👀 I’m interested in cloud technologies, test driven development, and video games.
+- 🌱 I’m currently learning Oracle Cloud Infrastructure and Godot game engine.
